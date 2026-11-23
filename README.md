@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm alenq 👋
 
-<!--
-**a1enq/a1enq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make small, fast desktop apps for Windows — clean interface, no installers, no bloat.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🎬 [AlenPlayer](https://github.com/a1enq/AlenPlayer)
+
+Portable media player for video, music and photos.
+Hardware decoding, Explorer thumbnails, 11 UI languages. Built with C# on top of mpv.
+
+<a href="https://github.com/a1enq/AlenPlayer">
+  <img src="https://raw.githubusercontent.com/a1enq/AlenPlayer/main/docs/screenshot-video.jpg" width="560" alt="AlenPlayer">
+</a>
+
+[**⬇ Download**](https://github.com/a1enq/AlenPlayer/releases/latest) · [Source code](https://github.com/a1enq/AlenPlayer)
+
+---
+
+**Tools I use:** C# · .NET · WinForms · Windows API · Python
